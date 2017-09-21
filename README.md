@@ -1,3 +1,23 @@
-# My Awesome API
+# Docker
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+```
+sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    software-properties-common
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   
+sudo apt-get update
+
+sudo apt-get install docker-ce
+```
+
+
+
