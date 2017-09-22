@@ -3,6 +3,7 @@
 ## Gist
 
 * [Docker](README.md)
+* [CircleCI](circleci.md)
 
 ## Methods
 
