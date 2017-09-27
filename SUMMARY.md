@@ -4,7 +4,7 @@
 
 * [Docker](README.md)
 * [CircleCI](circleci.md)
-* [Kubectl](kubectl.md)
+* [Kubernetes](kubectl.md)
 
 ## Methods
 
