@@ -1,6 +1,6 @@
-## example config
+### CircleCI config 2.0 example
 
-```
+```yaml
 version: 2
 jobs:
   build:
@@ -38,6 +38,3 @@ jobs:
               docker push $AWS_ACCOUNT_ID.dkr.ecr.$REGION.amazonaws.com/repo:latest
             fi
 ```
-
-
-
