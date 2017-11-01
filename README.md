@@ -1,4 +1,4 @@
-- Docs
+- Software
     - [Docker](docs/Docker.md)
     - [Kubernetes](docs/Kubernetes.md)
     - [CircleCI](docs/CircleCI.md)
